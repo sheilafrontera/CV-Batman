@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+html {
+    font-family: 'Roboto', sans-serif;
+}
+/*Estilo header*/
+.header {
+    text-align: center;
+    background-color: #E5E5E5;
+    background-size: cover;
+    }
+    
+    .curriculum {
+        background-color: #C4C4C4;
+        height: 40px;
+        letter-spacing: 9px;
+        color: #005677;
+        text-transform: uppercase;
+    }
+
+    .datos-personales {
+        background-color: #C4C4C4;
+        color: #005677;
+        letter-spacing: 4px;
+    }
+
+    main {
+        max-width: 1041px;
+        margin: 50px auto; 
+    }
+
+    .titulo {
+        font-weight: bold;
+        font-style: italic;
+    }
+    
+    .años {
+        font-weight: bold;
+        font-style: initial;
+    }
+
+    footer {
+        text-align: center;
+        color: white;
+        background-color: #005677;
+    }
